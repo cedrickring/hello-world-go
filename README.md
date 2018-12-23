@@ -12,7 +12,7 @@ docker build -t hello-world .
 docker run --rm hello-world
 ```
 
-or you can run the pre-build version from Docker Hub:
+or you can run the pre-built version from Docker Hub:
 ```
 docker run --rm cedrickring/hello-world
 ```
